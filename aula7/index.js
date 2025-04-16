@@ -14,6 +14,7 @@
 // Não utilizer VAR, utilizar LET e CONST, como nomeCliente, idade, altura, peso, etc.
 
 let nome = 'Junior'; // string
+
 // + - */ / % ** ++ --
 
 const primeiroNumero = 5; // number
@@ -24,3 +25,13 @@ const conta3 = primeiroNumero + segundoNumero; // number
 const conta4 = primeiroNumero - segundoNumero; // number
 const conta5 = primeiroNumero % segundoNumero; // number
 const conta6 = primeiroNumero ** segundoNumero; // number
+
+// console.log(primeiroNumero, segundoNumero, conta, conta2, conta3, conta4, conta5, conta6); // Exibe o valor das variáveis no console do navegador
+// console.log(primeiroNumero + segundoNumero); // Exibe o valor da soma no console do navegador
+// console.log(primeiroNumero - segundoNumero); // Exibe o valor da subtração no console do navegador
+// console.log(primeiroNumero * segundoNumero); // Exibe o valor da multiplicação no console do navegador
+
+console.log(typeof primeiroNumero); // Exibe o tipo da variável primeiroNumero no console do navegador
+console.log(typeof segundoNumero); // Exibe o tipo da variável segundoNumero no console do navegador
+console.log(typeof conta); // Exibe o tipo da variável conta no console do navegador
+console.log(typeof conta2); // Exibe o tipo da variável conta2 no console do navegador );
