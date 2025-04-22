@@ -12,8 +12,8 @@
  */
 
 const numl = 5; // number
-const num2 = 10; // number
-const num3 = 15; // number
+const num2A = 10; // number
+const num3A = 15; // number
 console.log((num1 + num2) * num3); // Adição
 
 // Aritmeticos é uma operação matemática que envolve números e operadores matemáticos. Os operadores aritméticos mais comuns são:
@@ -82,28 +82,28 @@ Decremento = -- é um operador que subtrai 1 do valor da variável. Por exemplo,
  */
 
  const passo = 2;
- let contador = 0; // number
+ let contadorNovo = 0; // number
 
- contador = contador + passo; // Adição
+ contadorNovo = contadorNovo + passo; // Adição
  console
 
- const passo = 50 ; // number
- let contador = 0; // number
- contador += passo; // Adição contador = contador + passo; // Adição
+ const passoGrande = 50 ; // number
+ let contadorGrande = 0; // number
+ contadorGrande += passoGrande; // Adição contador = contador + passo; // Adição
 
 
- let contador = 0; // number
- contador += 2;
-    contador += 2; // Adição
-    contador += 2; // Adição
-    console.log(contador); // Exibe o valor da variável contador no console do navegador
+ let contadorFinal = 0; // number
+ contadorFinal += 2;
+    contadorFinal += 2; // Adição
+    contadorFinal += 2; // Adição
+    console.log(contadorFinal); // Exibe o valor da variável contador no console do navegador
 
     // NaN - Not a Number
     // NaN é um valor especial que representa um resultado inválido ou indefinido de uma operação matemática. Por exemplo, se você tentar dividir um número por zero, o resultado será NaN.
 
     const num1 = 10; // number
-    const num2 = '10'; // string
-    const num3 = 5; // number
+   const num2B = '10'; // string
+    const num3B = 5; // number
     const resultado = num1 + num2; // string
    
 
